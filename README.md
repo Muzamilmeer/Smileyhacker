@@ -262,9 +262,37 @@
     <h2 style="color:#00ffff;">Contact</h2>  
     <p>Email: muzamilmeer598@gmail.com</p>  
     <p>Phone: 9103594759</p>  
-  </div>  </div>  <!-- Scan to Pay Full Width Section -->  <div style="margin-top:102px; padding:103px; background: #1f1f1f; border-radius:120px; box-shadow: 0 0 20px #00ffff; text-align: center;">  
-  <h2 style="color: #00ffff;">Scan to Pay (PhonePe)</h2>  
-  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" alt="Scanner" style="max-width:300px; margin-top:300px; border-radius:50px;">  
-  <p style="color: #fff; margin-top: 200px;">Secure UPI Payment to Muzamil</p>  
-</div> 
+  </div>  </div>  <!-- Scan to Pay Full Width Section -->  
+  <!-- Scan to Pay Compact Section -->
+<div style="
+  margin: 40px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 300px;
+  background: #1f1f1f;
+  border-radius: 20px;
+  box-shadow: 0 0 15px #00ffff;
+  text-align: center;
+">
+  <h2 style="color: #00ffff; font-size: 20px; margin-bottom: 15px;">
+    Scan to Pay (PhonePe)
+  </h2>
+
+  <!-- Clickable Image for Download via New Tab -->
+  <a href="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" target="_blank">
+    <img 
+      src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" 
+      alt="Scanner" 
+      style="width: 100%; max-width: 200px; border-radius: 15px; box-shadow: 0 0 10px #00ffff;"
+    >
+  </a>
+
+  <p style="color: #fff; margin-top: 15px; font-size: 14px;">
+    Secure UPI Payment to <strong>Muzamil</strong>
+  </p>
+
+  <p style="margin-top: 10px; font-size: 13px; color: #bbb;">
+    📲 Tap the image to open & long-press to save
+  </p>
+</div>
 
