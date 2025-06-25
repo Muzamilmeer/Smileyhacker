@@ -1,5 +1,5 @@
 # Smileyhacker
-<!DOCTYPE html>    <html lang="en">    
+<html lang="en">    
 <head>    
   <meta charset="UTF-8" />    
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />    
@@ -221,7 +221,7 @@
           <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750842834/s-l400_td9lev.jpg" alt="Cap">    
           <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Cap">Buy</a>    
         </div>    
-      </div>    
+   
 </div>  </section>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 60px;">  
@@ -269,6 +269,4 @@
 </div>  
 <footer>    
     &copy; 2025 Muzamil Ahmad Mir. All rights reserved.    
-  </footer>    
-</body>    
-</html>    
+  </footer> 
