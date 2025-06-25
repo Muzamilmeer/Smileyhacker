@@ -180,30 +180,30 @@
         </div>    
 <div class="product">  
   <h3>Denim Jacket - ₹1199</h3>  
-  <img src="https://res.cloudinary.com/demo/image/upload/v1750843000/denim-jacket.jpg" alt="Denim Jacket">  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750851236/F7AB3223-F87B-4568-AED0-C58C41D8CF0A_1_qzham2.png" alt="Denim Jacket">  
   <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Denim%20Jacket">Buy</a>  
 </div>  
 <div class="product">  
   
   <h3>AeroDrip Vibe Sneakers – ₹1799
   </h3>  
-  <img src="https://res.cloudinary.com/demo/image/upload/v1750843000/sneaker-socks.jpg" alt="Socks">  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750851234/18722ec089cc49156a888602e31e2149_cbjr0w.jpg" alt="Socks">  
   <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Sneaker%20Socks">Buy</a>  
 </div>  
 <div class="product">  
     
   <h3>ShadowFlex Oversized Tee – ₹699</h3>  
-  <img src="https://res.cloudinary.com/demo/image/upload/v1750843000/sneaker-socks.jpg" alt="Socks">  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750851233/61DgGIeSAkL._SY606__vvzr5q.jpg" alt="Socks">  
   <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Sneaker%20Socks">Buy</a>  
 </div>  
 <div class="product">  
   <h3>Sneaker Socks - ₹199</h3>  
-  <img src="https://res.cloudinary.com/demo/image/upload/v1750843000/sneaker-socks.jpg" alt="Socks">  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750851234/81TRdxk1wnL._SY741__vwq5ea.jpg" alt="Socks">  
   <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Sneaker%20Socks">Buy</a>  
 </div>  
 <div class="product">  
   <h3>Graphic Hoodie - ₹1099</h3>  
-  <img src="https://res.cloudinary.com/demo/image/upload/v1750843000/graphic-hoodie.jpg" alt="Graphic Hoodie">  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750851234/51wpvyKPnsL_hjomup.jpg" alt="Graphic Hoodie">  
   <a href="https://wa.me/919103594759?text=Hi%2C%20I%20want%20to%20buy%20Graphic%20Hoodie">Buy</a>  
 </div>  
 <div class="product">  
