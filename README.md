@@ -262,11 +262,13 @@
     <h2 style="color:#00ffff;">Contact</h2>  
     <p>Email: muzamilmeer598@gmail.com</p>  
     <p>Phone: 9103594759</p>  
-  </div>  </div>  <!-- Scan to Pay Full Width Section -->  <div style="margin-top: 40px; padding: 30px; background: #1f1f1f; border-radius: 15px; box-shadow: 0 0 12px #00ffff; text-align: center;">  
+  </div>  </div>  <!-- Scan to Pay Full Width Section -->  <div style="margin-top: 20px; padding: 10px; background: #1f1f1f; border-radius: 20px; box-shadow: 0 0 12px #00ffff; text-align: center;">  
   <h2 style="color: #00ffff;">Scan to Pay (PhonePe)</h2>  
   <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" alt="Scanner" style="max-width:180px; margin-top:20px; border-radius:12px;">  
   <p style="color: #fff; margin-top: 10px;">Secure UPI Payment to Muzamil</p>  
 </div>  
 <p>
+  <br>
     &copy; 2025 Muzamil Ahmad Mir. All rights reserved.    
+</br>
 </p>
