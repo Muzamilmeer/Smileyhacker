@@ -262,9 +262,9 @@
     <h2 style="color:#00ffff;">Contact</h2>  
     <p>Email: muzamilmeer598@gmail.com</p>  
     <p>Phone: 9103594759</p>  
-  </div>  </div>  <!-- Scan to Pay Full Width Section -->  <div style="margin-top:102px; padding:103px; background: #1f1f1f; border-radius:120px; box-shadow: 0 0 120px #00ffff; text-align: center;">  
+  </div>  </div>  <!-- Scan to Pay Full Width Section -->  <div style="margin-top:102px; padding:103px; background: #1f1f1f; border-radius:120px; box-shadow: 0 0 20px #00ffff; text-align: center;">  
   <h2 style="color: #00ffff;">Scan to Pay (PhonePe)</h2>  
-  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" alt="Scanner" style="max-width:100px; margin-top:120px; border-radius:2px;">  
-  <p style="color: #fff; margin-top: 110px;">Secure UPI Payment to Muzamil</p>  
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" alt="Scanner" style="max-width:10px; margin-top:10px; border-radius:2px;">  
+  <p style="color: #fff; margin-top: 10px;">Secure UPI Payment to Muzamil</p>  
 </div> 
 
