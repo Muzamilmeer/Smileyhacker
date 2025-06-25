@@ -140,7 +140,7 @@
       <div class="logo-text">Muzamil Streetwear</div>    
     </div>    
     <div class="social-icons">    
-      <a href="https://www.instagram.com/prince_____muzamil" target="_blank">    
+      <a href="https://www.instagram.com/mr____unstoppable___?igsh=MW5tcm93OHg4a3pv" target="_blank">    
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" />    
       </a>    
       <a href="https://www.snapchat.com/add/meir-muzamil" target="_blank">    
