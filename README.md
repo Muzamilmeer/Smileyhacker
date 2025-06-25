@@ -267,6 +267,6 @@
   <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" alt="Scanner" style="max-width:180px; margin-top:20px; border-radius:12px;">  
   <p style="color: #fff; margin-top: 10px;">Secure UPI Payment to Muzamil</p>  
 </div>  
-<footer>    
+<p>
     &copy; 2025 Muzamil Ahmad Mir. All rights reserved.    
-  </footer> 
+</p>
