@@ -1,11 +1,46 @@
-# Smileyhacker
+  # Smileyhacker
 <html lang="en">    
 <head>    
   <meta charset="UTF-8" />    
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />    
   <title>Muzamil Streetwear | Portfolio & Store</title>    
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet" />    
-  <style>    
+  <style> 
+.typewriter-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  border-right: 3px solid #00ffff;
+  white-space: normal;
+  font-size: 18px;
+  width: 100%;
+  max-width: 600px;
+  color: #fff;
+  text-align: center;
+  animation: typing 20s steps(90, end), blink 0.75s step-end infinite;
+  line-height: 1.5;
+}
+
+@keyframes typing {
+  from {
+    max-width: 0;
+  }
+  to {
+    max-width: 600px;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}   
     * {    
       margin: 0;    
       padding: 0;    
@@ -131,6 +166,7 @@
       font-size: 14px;    
       background: #1a1a1a;    
     }    
+
   </style>    
 </head>    
 <body>    
@@ -229,10 +265,27 @@
 <div id="about" class="about">
   <!-- your about content -->
 </div>
-  <!-- About Me -->  
-  <div style="background:#1f1f1f; border-radius:15px; padding:25px; box-shadow: 0 0 10px #00ffff;">  
-    <h2 style="color:#00ffff; text-align:center;">About Me</h2>  
-    <p style="text-align: center; color: #fff;">Hey, I'm Muzamil — a passionate software developer who turns coffee into clean code. I build sleek apps, solve real-world problems, and love bringing ideas to life through tech. Currently leveling up my skills, one project at a time.</p>  
+<!-- About Me -->
+<div id="about" class="about" style="background:#1f1f1f; border-radius:15px; padding:25px; box-shadow: 0 0 10px #00ffff;">
+  <h2 style="color:#00ffff; text-align:center;">About Me</h2>
+  <div class="typewriter-box">
+    <p id="typewriter" style="text-align:center; font-weight:bold;"></p>
+<script>
+  const txt = "Hey, I'm Muzamil — a passionate software developer who turns coffee into clean code. I build sleek apps, solve real-world problems, and love bringing ideas to life through tech. Currently leveling up my skills, one project at a time.";
+  let i = 0;
+  function type() {
+    if (i < txt.length) {
+      document.getElementById("typewriter").innerHTML += txt.charAt(i);
+      i++;
+      setTimeout(type, 200s);
+    }
+  }
+  type();
+</script>
+ 
+</div>
+</div>
+</div> 
   </div>    <!-- Skills -->    
 <div id="skills" style="...">
   <!-- skills content -->
@@ -264,26 +317,20 @@
     <p>Phone: 9103594759</p>  
   </div>  </div>  <!-- Scan to Pay Full Width Section -->  
   <!-- Scan to Pay Compact Section -->
-<div style="
-  margin: 40px auto;
-  padding: 20px;
-  width: 90%;
-  max-width: 300px;
-  background: #1f1f1f;
-  border-radius: 20px;
-  box-shadow: 0 0 15px #00ffff;
-  text-align: center;
-">
+
   <h2 style="color: #00ffff; font-size: 20px; margin-bottom: 15px;">
     Scan to Pay (PhonePe)
   </h2>
+<div style="background:#1f1f1f; border-radius:75px; padding:10px; box-shadow: 0 0 10px #00ffff;">  
+    <h2 style="color:#00ffff; text-align:center;">Projects</h2>  
+    <ul style="list-style:none; text-align:center; color: #fff; font-weight:bold; font-size:18px;">  
 
   <!-- Clickable Image for Download via New Tab -->
-  <a href="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" target="_blank">
+  <a href="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750868015/IMG_20250625_214238_o0a1t8.png" target="_blank">
     <img 
-      src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744298764/PhonePeQR_J_K_Grameen_Bank_-_03580_lweegr.png" 
+      src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1750868015/IMG_20250625_214238_o0a1t8.png" 
       alt="Scanner" 
-      style="width: 100%; max-width: 200px; border-radius: 15px; box-shadow: 0 0 10px #00ffff;"
+      style="width: 300%; max-width: 300px; border-radius: 75px; box-shadow: 0 0 100px #00ffff;"
     >
   </a>
 
@@ -291,7 +338,7 @@
     Secure UPI Payment to <strong>Muzamil</strong>
   </p>
 
-  <p style="margin-top: 10px; font-size: 13px; color: #bbb;">
+  <p style="margin-top: 1px; font-size: 23px; color: #bbb;">
     📲 Tap the image to open & long-press to save
   </p>
 </div>
