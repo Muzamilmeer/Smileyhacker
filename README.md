@@ -277,7 +277,7 @@
     if (i < txt.length) {
       document.getElementById("typewriter").innerHTML += txt.charAt(i);
       i++;
-      setTimeout(type, 10s);
+      setTimeout(type, 200);
     }
   }
   type();
